@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/ tools"
+    tools:context=".MainActivity">
+    <item android:title="Insertar"
+        android:id="@+id/menu_insertar"
+        android:icon="@drawable/mas"
+        android:orderInCategory="115"
+        app:showAsAction="always|collapseActionView"/>
+</menu>
